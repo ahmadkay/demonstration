@@ -147,9 +147,9 @@
 					
 					<div class="footer-bottom row align-items-center justify-content-between">
 						<p class="footer-text m-0 col-lg-6 col-md-12">
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="mailto:abubakar180umar@gmail.com">
-</a>design and developed by <a href="mailto:abubakar180umar@gmail.com">
-abubakar180umar@gmail.com</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="mailto:ahmadkamalabdallah@gmail.com">
+</a>design and developed by <a href="mailto:ahmadkamalabdallah@gmail.com">
+ahmadkamalabdallah@gmail.com</a>
 </p>
 						
 					</div>						
