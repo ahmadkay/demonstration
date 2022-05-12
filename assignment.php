@@ -1,6 +1,6 @@
 <?php
 	
-$con = mysqli_connect("localhost","root","","abi");
+$con = mysqli_connect("localhost","root","","admin");
 if(mysqli_connect_errno()){
  echo "fail to connect: ". mysqli_connect_error();
 }?>
